@@ -1,2 +1,2 @@
-# DNA_BERT
-A genomic fondation model based on BERT - transformer
+
+run python ./train.py or python ./train.py --nnodes 1
