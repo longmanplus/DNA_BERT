@@ -1,2 +1,1 @@
-
-run python ./train.py or python ./train.py --nnodes 1
+A BERT model masking random parts of an input DNA sequence and make prediction about the masked nucleotides.
