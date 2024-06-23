@@ -1,1 +1,1 @@
-A BERT model masking random parts of an input DNA sequence and make prediction about the masked nucleotides.
+A Transformer (encoder) - BERT model that allows training a DNA foundation model by randomly masking input DNA sequences and predicting the masked nucleotides, capable of performing various downstream tasks.
